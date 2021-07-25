@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.ae78befa.chunk.css",
+    "main.js": "/photo-port/static/js/main.4e8953d6.chunk.js",
+    "main.js.map": "/photo-port/static/js/main.4e8953d6.chunk.js.map",
+    "runtime-main.js": "/photo-port/static/js/runtime-main.9da83d54.js",
+    "runtime-main.js.map": "/photo-port/static/js/runtime-main.9da83d54.js.map",
+    "static/js/2.36382d89.chunk.js": "/photo-port/static/js/2.36382d89.chunk.js",
+    "static/js/2.36382d89.chunk.js.map": "/photo-port/static/js/2.36382d89.chunk.js.map",
+    "static/js/3.dfb8d382.chunk.js": "/photo-port/static/js/3.dfb8d382.chunk.js",
+    "static/js/3.dfb8d382.chunk.js.map": "/photo-port/static/js/3.dfb8d382.chunk.js.map",
+    "index.html": "/photo-port/index.html",
+    "static/css/main.ae78befa.chunk.css.map": "/photo-port/static/css/main.ae78befa.chunk.css.map",
+    "static/js/2.36382d89.chunk.js.LICENSE.txt": "/photo-port/static/js/2.36382d89.chunk.js.LICENSE.txt",
+    "static/media/Blog.f3a3f7d9.PNG": "/photo-port/static/media/Blog.f3a3f7d9.PNG",
+    "static/media/Employee-tracker.d35109b7.PNG": "/photo-port/static/media/Employee-tracker.d35109b7.PNG",
+    "static/media/PWA-Challenge.02b276c4.PNG": "/photo-port/static/media/PWA-Challenge.02b276c4.PNG",
+    "static/media/Selfie.jpg": "/photo-port/static/media/Selfie.75a322a3.jpg",
+    "static/media/The-Best-Sellers.9ca99f76.jpg": "/photo-port/static/media/The-Best-Sellers.9ca99f76.jpg",
+    "static/media/git-forked.fc7c85d0.PNG": "/photo-port/static/media/git-forked.fc7c85d0.PNG",
+    "static/media/social-network.acac1338.PNG": "/photo-port/static/media/social-network.acac1338.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da83d54.js",
+    "static/js/2.36382d89.chunk.js",
+    "static/css/main.ae78befa.chunk.css",
+    "static/js/main.4e8953d6.chunk.js"
+  ]
+}
