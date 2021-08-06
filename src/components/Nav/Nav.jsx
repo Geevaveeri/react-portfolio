@@ -74,17 +74,17 @@ const Nav = props => {
 							setCurrentCategory("Contact Me");
 						}}
 					>
-// 						Contact Me
-// 					</Link>
-// 					<Link
-// 						variant="button"
-// 						href="#resume"
-// 						className={`${classes.link} ${contactSelected && "navActive"}`}
-// 						onClick={() => {
-// 							setContactSelected(false);
-// 							setCurrentCategory("Resume");
-// 						}}
-// 					>
+						Contact Me
+					</Link>
+					<Link
+						variant="button"
+						href="#resume"
+						className={`${classes.link} ${contactSelected && "navActive"}`}
+						onClick={() => {
+							setContactSelected(false);
+							setCurrentCategory("Resume");
+						}}
+					>
 						Resume
 					</Link>
 				</nav>

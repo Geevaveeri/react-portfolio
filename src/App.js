@@ -35,7 +35,7 @@ function App() {
 		<div className="main-container">
 			<ThemeProvider theme={theme}>
 				<CssBaseline />
-				<Nav
+				<Nav 
 					setCurrentCategory={setCurrentCategory}
 					currentCategory={currentCategory}
 					contactSelected={contactSelected}
