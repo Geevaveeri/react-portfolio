@@ -49,6 +49,14 @@ function Project(props) {
 
 const items = [
 	{
+		name: "On The Road",
+		description: "On The Road, or as we like to call it OTR, is the one stop shop for your road trip needs. With OTR, you can create a road trip dashboard to store all of the necessities for your road trip.",
+		img: blog,
+		site: "https://ontheroadapp.herokuapp.com/",
+		repo: "https://github.com/Geevaveeri/OnTheRoad",
+		txtColor: "#000000",
+	}
+	{
 		name: "MVC Blog",
 		description: "A blog I made using the Model, View, Controller method.",
 		img: blog,
