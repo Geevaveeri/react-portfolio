@@ -9,6 +9,7 @@ import sellers from "../../assets/images/The-Best-Sellers.jpg";
 import social from "../../assets/images/social-network.PNG";
 import budget from "../../assets/images/PWA-Challenge.PNG";
 import forked from "../../assets/images/git-forked.PNG";
+import otr from "../../assets/images/OTR";
 
 function Project(props) {
 	return (
@@ -51,7 +52,7 @@ const items = [
 	{
 		name: "On The Road",
 		description: "On The Road, or as we like to call it OTR, is the one stop shop for your road trip needs. With OTR, you can create a road trip dashboard to store all of the necessities for your road trip.",
-		img: blog,
+		img: otr,
 		site: "https://ontheroadapp.herokuapp.com/",
 		repo: "https://github.com/Geevaveeri/OnTheRoad",
 		txtColor: "#000000",
