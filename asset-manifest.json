@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ae78befa.chunk.css",
+    "main.css": "/react-portfolio/static/css/main.5f2afb64.chunk.css",
     "main.js": "/react-portfolio/static/js/main.c1dcc9b3.chunk.js",
     "main.js.map": "/react-portfolio/static/js/main.c1dcc9b3.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.75844af0.js",
@@ -10,7 +10,7 @@
     "static/js/3.dfb8d382.chunk.js": "/react-portfolio/static/js/3.dfb8d382.chunk.js",
     "static/js/3.dfb8d382.chunk.js.map": "/react-portfolio/static/js/3.dfb8d382.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.ae78befa.chunk.css.map": "/react-portfolio/static/css/main.ae78befa.chunk.css.map",
+    "static/css/main.5f2afb64.chunk.css.map": "/react-portfolio/static/css/main.5f2afb64.chunk.css.map",
     "static/js/2.36382d89.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.36382d89.chunk.js.LICENSE.txt",
     "static/media/Blog.f3a3f7d9.PNG": "/react-portfolio/static/media/Blog.f3a3f7d9.PNG",
     "static/media/Employee-tracker.d35109b7.PNG": "/react-portfolio/static/media/Employee-tracker.d35109b7.PNG",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.75844af0.js",
     "static/js/2.36382d89.chunk.js",
-    "static/css/main.ae78befa.chunk.css",
+    "static/css/main.5f2afb64.chunk.css",
     "static/js/main.c1dcc9b3.chunk.js"
   ]
 }
