@@ -9,7 +9,7 @@ import sellers from "../../assets/images/The-Best-Sellers.jpg";
 import social from "../../assets/images/social-network.PNG";
 import budget from "../../assets/images/PWA-Challenge.PNG";
 import forked from "../../assets/images/git-forked.PNG";
-import otr from "../../assets/images/OTR";
+import otr from "../../assets/images/OTR.png";
 
 function Project(props) {
 	return (
