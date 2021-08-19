@@ -55,7 +55,7 @@ const items = [
 		site: "https://ontheroadapp.herokuapp.com/",
 		repo: "https://github.com/Geevaveeri/OnTheRoad",
 		txtColor: "#000000",
-	}
+	},
 	{
 		name: "MVC Blog",
 		description: "A blog I made using the Model, View, Controller method.",
