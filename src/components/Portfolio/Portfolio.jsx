@@ -21,9 +21,10 @@ function Project(props) {
 			}}
 			elevation={10}
 		>
-			<h2 style={{ color: props.item.txtColor }}>{props.item.name}</h2>
-			<h4 style={{ color: props.item.txtColor }}>{props.item.description}</h4>
-
+			<Paper>
+				<h2 style={{ color: props.item.txtColor }}>{props.item.name}</h2>
+				<h4 style={{ color: props.item.txtColor }}>{props.item.description}</h4>
+			</Paper>
 			<Button
 				className="CheckButton"
 				href={props.item.site}
@@ -51,11 +52,12 @@ function Project(props) {
 const items = [
 	{
 		name: "On The Road",
-		description: "On The Road, or as we like to call it OTR, is the one stop shop for your road trip needs. With OTR, you can create a road trip dashboard to store all of the necessities for your road trip.",
+		description:
+			"On The Road, or as we like to call it OTR, is the one stop shop for your road trip needs. With OTR, you can create a road trip dashboard to store all of the necessities for your road trip.",
 		img: otr,
 		site: "https://ontheroadapp.herokuapp.com/",
 		repo: "https://github.com/Geevaveeri/OnTheRoad",
-		txtColor: "#000000",
+		
 	},
 	{
 		name: "MVC Blog",
@@ -63,7 +65,7 @@ const items = [
 		img: blog,
 		site: "https://mvc-challenge.herokuapp.com/",
 		repo: "https://github.com/Geevaveeri/Model-View-Controller-Challenge",
-		txtColor: "#000000",
+		
 	},
 	{
 		name: "Employee Tracker",
@@ -72,7 +74,7 @@ const items = [
 		img: tracker,
 		site: "https://github.com/Geevaveeri/Employee-Tracker",
 		repo: "https://github.com/Geevaveeri/Employee-Tracker",
-		txtColor: "#ffffff",
+		
 	},
 	{
 		name: "The Best Sellers",
@@ -81,7 +83,7 @@ const items = [
 		img: sellers,
 		site: "https://geevaveeri.github.io/the-best-sellers/",
 		repo: "https://github.com/Geevaveeri/the-best-sellers",
-		txtColor: "#cf5ce2",
+		
 	},
 	{
 		name: "Social Network API",
@@ -90,7 +92,7 @@ const items = [
 		img: social,
 		site: "https://www.youtube.com/watch?v=LB5rPG9yBfg",
 		repo: "https://github.com/Geevaveeri/NoSQL-Challenge-Social-Network-API",
-		txtColor: "#ffffff",
+		
 	},
 	{
 		name: "Budget Tracker",
