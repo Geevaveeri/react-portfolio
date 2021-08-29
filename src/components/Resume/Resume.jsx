@@ -25,12 +25,11 @@ const Resume = () => {
 			justifyContent="center"
 			alignItems="center"
 			alignContent="center"
-			
 		>
 			<div>
 				<h1>Resume</h1>
 				<h3>
-					Download my
+					Download:
 					<a href="https://drive.google.com/file/d/197Vu9wnj6_LOIiYZEeOwShJ_WeQ4rTHL/view?usp=sharing">
 						Resume
 					</a>
