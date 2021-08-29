@@ -51,11 +51,7 @@ function ContactForm() {
 		>
 			<section>
 				<h1 data-testid="h1tag">Contact me</h1>
-				<h2>
-					(Note: Contact for currently does not function. Please contact me at
-					one of the links in the footer, or at cbr_me@yahoo.com)
-				</h2>
-				<form id="contact-form" onSubmit={handleSubmit}>
+				{/* <form id="contact-form" onSubmit={handleSubmit}>
 					<div>
 						<InputLabel htmlFor="name">Name:</InputLabel>
 						<TextField
@@ -105,7 +101,9 @@ function ContactForm() {
 					>
 						Submit
 					</Button>
-				</form>
+				</form> */}
+				Please contact me at cbr_me@yahoo.com, or one of the platforms in my
+				footer! Thank you!
 			</section>
 		</Grid>
 	);
