@@ -12,13 +12,15 @@ import Footer from "./components/Footer";
 const theme = createTheme({
 	palette: {
 		primary: {
-			main: "#9b27af",
+			//main: "#9b27af",
+			main: "#1976d2",
 			light: "#cf5ce2",
 			dark: "#69007f",
 			contrastText: "#ffffff",
 		},
 		secondary: {
-			main: "#3cb027",
+			//main: "#3cb027",
+			main: "#9c27b0",
 			light: "#74e359",
 			dark: "#007f00",
 			contrastText: "#000000",
@@ -35,7 +37,7 @@ function App() {
 		<div className="main-container">
 			<ThemeProvider theme={theme}>
 				<CssBaseline />
-				<Nav 
+				<Nav
 					setCurrentCategory={setCurrentCategory}
 					currentCategory={currentCategory}
 					contactSelected={contactSelected}

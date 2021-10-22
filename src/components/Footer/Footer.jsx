@@ -18,13 +18,13 @@ export default function Footer() {
 				<Typography variant="subtitle1" align="center" component="p">
 					<a
 						href="https://github.com/Geevaveeri"
-						style={{ textDecoration: "none", color: "black" }}
+						style={{ textDecoration: "none", color: "white" }}
 					>
 						GitHub
 					</a>
 					<a
 						href="https://www.linkedin.com/in/rosecasey/"
-						style={{ padding: "10px", textDecoration: "none", color: "black" }}
+						style={{ padding: "10px", textDecoration: "none", color: "white" }}
 					>
 						LinkedIn
 					</a>
