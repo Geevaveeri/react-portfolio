@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5f2afb64.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.cb4a9965.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.cb4a9965.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.d5b898b8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d5b898b8.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.1df0dada.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1df0dada.js.map",
     "static/js/2.98276271.chunk.js": "/react-portfolio/static/js/2.98276271.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/Employee-tracker.d35109b7.PNG": "/react-portfolio/static/media/Employee-tracker.d35109b7.PNG",
     "static/media/OTR.f5995455.png": "/react-portfolio/static/media/OTR.f5995455.png",
     "static/media/PWA-Challenge.02b276c4.PNG": "/react-portfolio/static/media/PWA-Challenge.02b276c4.PNG",
-    "static/media/Selfie.jpg": "/react-portfolio/static/media/Selfie.75a322a3.jpg",
+    "static/media/Selfie.jpg": "/react-portfolio/static/media/Selfie.f6a19c82.jpg",
     "static/media/The-Best-Sellers.9ca99f76.jpg": "/react-portfolio/static/media/The-Best-Sellers.9ca99f76.jpg",
     "static/media/git-forked.fc7c85d0.PNG": "/react-portfolio/static/media/git-forked.fc7c85d0.PNG",
     "static/media/social-network.acac1338.PNG": "/react-portfolio/static/media/social-network.acac1338.PNG"
@@ -25,6 +25,6 @@
     "static/js/runtime-main.1df0dada.js",
     "static/js/2.98276271.chunk.js",
     "static/css/main.5f2afb64.chunk.css",
-    "static/js/main.cb4a9965.chunk.js"
+    "static/js/main.d5b898b8.chunk.js"
   ]
 }
